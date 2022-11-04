@@ -1,0 +1,73 @@
+#header{
+   background-color: lavender;
+   text-align: center;
+
+}
+
+h1{
+    color: gray;
+}
+
+blockquote{
+    background-color: aliceblue;
+    border: 1px dashed black;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.nav ul li{
+    margin: 0em 1em;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.jawa{
+    color: gray;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.koleksi{
+    background-color: lavender;
+}
+
+.koleksi img{
+    width: 23%;
+}
+
+.promo{
+    text-align: center;
+    background-color: aliceblue;
+    border: 1px solid gray;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.promo h3{
+    background-color: lavender;
+    border: 1px dotted burlywood;
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+}
+.promo ol{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.promo ol li{
+    margin: 0em 1em;
+}
+
